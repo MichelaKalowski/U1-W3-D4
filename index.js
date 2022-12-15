@@ -12,9 +12,3 @@ const azionebottone= function(e) {
 
 
 
-
-const Title = function () {
-    h1 = document.querySelector("h1")
-    h1.style.fontSize = "50px"
-    h1.style.color = "black"
-    }
